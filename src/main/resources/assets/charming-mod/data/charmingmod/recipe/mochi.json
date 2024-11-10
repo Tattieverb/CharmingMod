@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": {
+      "item": "charming-mod:blossom_spores"
+    },
+    "w": {
+      "item": "minecraft:wheat"
+    },
+    "s": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "pattern": [
+    " b ",
+    "wsw"
+  ],
+  "result": {
+    "count": 1,
+    "id": "charming-mod:mochi"
+  }
+}

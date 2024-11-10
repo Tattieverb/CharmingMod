@@ -1,0 +1,18 @@
+{
+  "effect.charming-mod.charmed": "Charmed!",
+
+  "item.charming-mod.blossom_spores": "Blossom Spores",
+
+  "item.minecraft.potion.effect.charmed_potion": "Potion of Charming",
+  "item.minecraft.splash_potion.effect.charmed_potion": "Splash Potion of Charming",
+  "item.minecraft.lingering_potion.effect.charmed_potion": "Lingering Potion of Charming",
+
+  "item.charming-mod.mochi": "Mochi",
+  "item.charming-mod.seasoned_pie": "pumpkin pie",
+  "item.charming-mod.seasoned_cookie": "cookie",
+
+  "item.charming-mod.herald_music_disc": "Music Disc",
+  "item.charming-mod.herald_music_disc.desc": "Old Gods of Asgard - Herald of Darkness",
+
+  "itemgroup.charming-mod.charming_items": "Charming Items"
+}

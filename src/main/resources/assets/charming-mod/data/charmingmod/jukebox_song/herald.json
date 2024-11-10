@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.charming-mod.herald_music_disc.desc"
+  },
+  "length_in_seconds": 220.0,
+  "sound_event": "charming-mod:herald"
+}

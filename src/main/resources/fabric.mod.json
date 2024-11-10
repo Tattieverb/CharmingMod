@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "charming-mod",
+	"version": "${version}",
+	"name": "Charming Mod",
+	"description": "a charming little mod that adds a new status effect and related items that inflict it",
+	"authors": [
+		"Tattieverb - Code and sprite work",
+		"Cam - Charmed effect icon design"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/charming-mod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.tattieverb.charmingmod.CharmingMod"
+		],
+		"fabric-datagen": [
+			"com.tattieverb.charmingmod.CharmingModDataGenerator"
+		],
+		"client": [
+			"com.tattieverb.charmingmod.CharmingModClient"
+		]
+	},
+	"mixins": [
+		"charming-mod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": {
+      "item": "charming-mod:blossom_spores"
+    },
+    "c": {
+      "item": "minecraft:cookie"
+    }
+  },
+  "pattern": [
+    "b",
+    "c"
+  ],
+  "result": {
+    "count": 1,
+    "id": "charming-mod:seasoned_cookie"
+  }
+}

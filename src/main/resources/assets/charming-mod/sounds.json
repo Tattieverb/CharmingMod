@@ -1,0 +1,18 @@
+{
+  "herald": {
+    "sounds": [
+      {
+        "name": "charming-mod:herald",
+        "stream": true
+      }
+    ]
+  },
+  "ping": {
+    "sounds": [
+      {
+        "name": "charming-mod:ping",
+        "stream": true
+      }
+    ]
+  }
+}
